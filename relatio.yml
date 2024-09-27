@@ -1,0 +1,9 @@
+name: relatio
+dependencies:
+  - python=3.8
+  - jupyter
+  - pip
+  - pip:
+    - wheel
+    - setuptools
+    - relatio
